@@ -25,7 +25,7 @@
   </tr>
 
   <tr>
-    <td align = "center" colspan = "4" style="border-right : 0.5px solid gray">FE</td>
+    <td align = "center" colspan = "4" style="border-right : 0.5px solid gray">Full-Stack</td>
   </tr>
 </table>
 

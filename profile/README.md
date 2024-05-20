@@ -3,7 +3,7 @@
 # 개요
 
 <p align="center">
-  <a href="d34b60zd0dvgbu.cloudfront.net/">📍사이트 바로 가기📍</a>
+  <a href="https://d34b60zd0dvgbu.cloudfront.net/">📍사이트 바로 가기📍</a>
 </p>
 
 ## 📍 프로젝트 목표

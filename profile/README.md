@@ -1,12 +1,25 @@
 # ShitDown
 
 # 개요
-프로 디지털 아카데미 4기에서 자리 배치 서비스를 자동화하고자 만든 사이트입니다.
+프로 디지털 아카데미 4기 미니 프로젝트입니다. 매번 슬랙으로 선호하는 앞/뒤 자리를 매니저님에게 전달하고, 이를 바탕으로 자리를 배치화하는 로직을 개선하기 위해 기획한 프로젝트입니다.
 <p align="center">
-  <a href="http://3.34.21.55:3001/">📍사이트 바로 가기📍</a>
+  <a href="http://3.34.21.55:3001/">🪑사이트 바로 가기🪑</a>
 </p>
 
 ## 📍 프로젝트 목표
+프로젝트를 진행하며 React.js와 Express.js에 익숙해지면서도, 작은 규모라도 제대로 만들고 실질적으로 서비스를 해보는 것이 프로젝트 목표입니다.
+
+
+## 📍 프로젝트 결과
+### 🐾 로그인
+![ezgif-3-5847682f6e](https://github.com/Pda4thMiniProject4th/.github/assets/83682424/b7792809-3414-448e-8382-e86ac0740989)
+
+### 🐾 메인 페이지
+![ezgif-3-6ea57b0625](https://github.com/Pda4thMiniProject4th/.github/assets/83682424/1ac61d11-2873-4a1b-8e5c-906493d347a9)
+
+### 🐾 관리자 페이지
+![ezgif-3-8ccecd530f](https://github.com/Pda4thMiniProject4th/.github/assets/83682424/3413887d-6953-4cea-8bca-590226092e11)
+
 
  ## 📍 참여 인원
 <table style="border: 0.5 solid gray">
@@ -32,6 +45,13 @@
 <br/>
 
 ---
+
+# 기술 스택
+- express.js
+- React.js
+- KakaoAPI
+- SlackAPI
+- MongoDB
 
 # 컨벤션
 ## 📍  Git 컨벤션

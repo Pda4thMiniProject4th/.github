@@ -1,16 +1,24 @@
-# ShitDown
+<!--# ShitDown -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=b1e4f2&height=150&section=header&text=Shit!%20Down&fontSize=50&animation=twinkling&fontColor=f5c4ed" />
 
-# 개요
-프로 디지털 아카데미 4기 미니 프로젝트입니다. 매번 슬랙으로 선호하는 앞/뒤 자리를 매니저님에게 전달하고, 이를 바탕으로 자리를 배치화하는 로직을 개선하기 위해 기획한 프로젝트입니다.
-<p align="center">
+# 🎀 개요
+신한투자증권 프로 디지털 아카데미 4기 미니 프로젝트입니다. <br />
+매번 슬랙을 통해 선호하는 자리(앞 또는 뒤)를 매니저님에게 전달하고, 이를 바탕으로 사람이 직접 자리배치를 하는 기존의 로직을 개선하기 위해 기획한 프로젝트입니다.
+<br />
+## ✨ 사이트
+저희 사이트가 궁금하시다면 아래 링크를 클릭해서 확인해주세요!!
+<p>
   <a href="http://3.34.21.55:3001/">🪑사이트 바로 가기🪑</a>
 </p>
+<br />
 
-## 📍 프로젝트 목표
+## 👑 프로젝트 목표
 프로젝트를 진행하며 React.js와 Express.js에 익숙해지면서도, 작은 규모라도 제대로 만들고 실질적으로 서비스를 해보는 것이 프로젝트 목표입니다.
+<br />
 
+## ❤ 프로젝트 결과
+<br />
 
-## 📍 프로젝트 결과
 ### 🐾 로그인
 ![ezgif-3-5847682f6e](https://github.com/Pda4thMiniProject4th/.github/assets/83682424/b7792809-3414-448e-8382-e86ac0740989)
 
@@ -20,8 +28,9 @@
 ### 🐾 관리자 페이지
 ![ezgif-3-8ccecd530f](https://github.com/Pda4thMiniProject4th/.github/assets/83682424/3413887d-6953-4cea-8bca-590226092e11)
 
+<br />
 
- ## 📍 참여 인원
+ # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
  <tr>
     <td align="center"><a href="https://github.com/ymkdev"><img src="https://avatars.githubusercontent.com/ymkdev" width="130px;" alt=""></td>
@@ -46,15 +55,19 @@
 
 ---
 
-# 기술 스택
+# 🛠기술 스택
 - express.js
 - React.js
 - KakaoAPI
 - SlackAPI
 - MongoDB
+<br />
 
-# 컨벤션
-## 📍  Git 컨벤션
+# 🎨컨벤션
+## Git 컨벤션
+
+<br />
+
 ```
 <컨벤션> : <변경 파일 명> - <설명>
 ```
@@ -73,6 +86,8 @@
  | rename | 파일 혹은 폴더 명을 수정하거나 옮기는 작업을 의미한다.|
 
  [깃 컨벤션 참조](https://velog.io/@devholic/%EC%9A%B0%ED%85%8C%EC%BD%94-6%EA%B8%B0-%EB%8F%84%EC%A0%84%EA%B8%B0-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95-Udacity-%EC%BB%A8%EB%B2%A4%EC%85%98-%EB%B2%88%EC%97%AD-%EB%B0%8F-%EC%A0%95%EB%A6%AC)
+
+<br />
 
 
 # ⛳ 그라운드 룰
